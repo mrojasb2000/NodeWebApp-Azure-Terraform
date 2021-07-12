@@ -1,0 +1,12 @@
+.terraform
+
+terraform.tfstate
+terraform.tfstate.backup
+
+terraform.tfvars
+
+node_modules
+
+.vscode
+
+.terraform.lock.hcl
